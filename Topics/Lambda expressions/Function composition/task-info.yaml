@@ -1,0 +1,14 @@
+type: code
+feedback_link: https://hyperskill.org/learn/step/6161#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:1:66: error: unexpected tokens (use ';' to separate expressions on the same line)
+    fun compose(g: (Int) -> Int, h: (Int) -> Int): (Int) -> Int { it -> g(h(it)) }
+                                                                     ^
+    main.kt:1:63: error: unresolved reference: it
+    fun compose(g: (Int) -> Int, h: (Int) -> Int): (Int) -> Int { it -> g(h(it)) }
+                                                                  ^
+  time: Thu, 08 Jul 2021 15:34:17 UTC
+record: -1
