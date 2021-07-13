@@ -1,2 +1,2 @@
 # Phone_Book
-Phone Book from JetBrains Academy
+Phone Book project from JetBrains Academy
